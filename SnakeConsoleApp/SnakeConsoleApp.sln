@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeConsoleApp", "SnakeConsoleApp.csproj", "{AFD2E657-EA18-4B66-B1F7-535274A24E4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lines", "Lines", "{4424F4B5-F216-461A-B28C-8CC566805282}"
+	ProjectSection(SolutionItems) = preProject
+		HorizontalLine.cs = HorizontalLine.cs
+		VerticalLine.cs = VerticalLine.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Installers", "Installers", "{11601A2B-92D9-487A-8946-576F42DDD234}"
+	ProjectSection(SolutionItems) = preProject
+		LineInstaller.cs = LineInstaller.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{6E25881E-0020-45CE-B6A1-5202CE7E848B}"
+	ProjectSection(SolutionItems) = preProject
+		FoodFactory.cs = FoodFactory.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{603A3587-0D84-452D-A997-FE326687DCA7}"
+	ProjectSection(SolutionItems) = preProject
+		ColorHelper.cs = ColorHelper.cs
+		ScoreHelper.cs = ScoreHelper.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7EB191E0-64FD-4FAF-B129-C41DA3177638}"
+	ProjectSection(SolutionItems) = preProject
+		Gameplay.cs = Gameplay.cs
+		Snake.cs = Snake.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enums", "Enums", "{128EDD23-5F51-4C03-82A3-DB701117381D}"
+	ProjectSection(SolutionItems) = preProject
+		DirectionEnum.cs = DirectionEnum.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{967BBB6A-3750-42A9-AD6A-5F4BB28C3BEA}"
+	ProjectSection(SolutionItems) = preProject
+		UIService.cs = UIService.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserServices", "UserServices", "{703123A4-89FB-41F5-B2EA-7A7542188446}"
+	ProjectSection(SolutionItems) = preProject
+		User.cs = User.cs
+		UserInitalization.cs = UserInitalization.cs
+		UserService.cs = UserService.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD2E657-EA18-4B66-B1F7-535274A24E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD2E657-EA18-4B66-B1F7-535274A24E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD2E657-EA18-4B66-B1F7-535274A24E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD2E657-EA18-4B66-B1F7-535274A24E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300E9901-1F94-49F4-9392-03082C5939C8}
+	EndGlobalSection
+EndGlobal

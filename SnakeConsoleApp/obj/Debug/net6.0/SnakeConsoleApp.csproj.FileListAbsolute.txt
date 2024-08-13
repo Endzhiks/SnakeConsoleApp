@@ -1,0 +1,15 @@
+D:\Projects\SnakeConsoleApp\bin\Debug\net6.0\SnakeConsoleApp.exe
+D:\Projects\SnakeConsoleApp\bin\Debug\net6.0\SnakeConsoleApp.deps.json
+D:\Projects\SnakeConsoleApp\bin\Debug\net6.0\SnakeConsoleApp.runtimeconfig.json
+D:\Projects\SnakeConsoleApp\bin\Debug\net6.0\SnakeConsoleApp.dll
+D:\Projects\SnakeConsoleApp\bin\Debug\net6.0\SnakeConsoleApp.pdb
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.csproj.AssemblyReference.cache
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.AssemblyInfoInputs.cache
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.AssemblyInfo.cs
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.dll
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\refint\SnakeConsoleApp.dll
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.pdb
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\SnakeConsoleApp.genruntimeconfig.cache
+D:\Projects\SnakeConsoleApp\obj\Debug\net6.0\ref\SnakeConsoleApp.dll
